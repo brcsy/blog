@@ -8,3 +8,13 @@ navbar:
     - name: 博客
       icon: fa-solid fa-rss
       url: /
+    - name: 石艺云
+      icon: 
+blogger:
+  class: blogger
+  display: [desktop] # [desktop, mobile]
+  avatar: https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+  title: ZXFunM
+  subtitle: 在破旧的ZXF百宝箱里遨游
+  jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
+  social: true
