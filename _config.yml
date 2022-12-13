@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: ZXF百宝箱——
+subtitle: 这里什么都有
 description:
 keywords:
-author: John Doe
+author: ZXFunM
 language: zh_CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://zxf.brcsy.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
