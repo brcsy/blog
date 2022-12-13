@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ZXF百宝箱——
+title: ZXF百宝箱
 subtitle: 这里什么都有
 description:
 keywords:
@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://zxf.brcsy.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :postid
 permalink_defaults:
 
 # Directory
