@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://zxf.brcsy.com
 root: /
-permalink: :id
+permalink: :title.md
 permalink_defaults:
 # Directory
 source_dir: source
